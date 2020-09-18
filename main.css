@@ -1,7 +1,9 @@
 
+
 .text {
     border: solid yellow 5px;
     font-family: sans-serif;
+    text-align: center;
 }
 
 #myHeader {
@@ -12,3 +14,14 @@
 }
 
 body {background-color: violet;}
+
+.eggleton {
+    margin-left: auto;
+    margin-right: auto;
+    position: center;
+    width: 50%;
+}
+
+#GudetamaMagic {
+    border: none;
+}
